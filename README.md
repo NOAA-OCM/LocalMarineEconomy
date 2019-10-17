@@ -1,6 +1,6 @@
 # Local Marine Economy Data Extraction and Analysis
 
-This is a python 3.X script designed to access Census Zip Code Business Patterns Data via the Census API, download the data for a selected list of zip codes, organize and group the data based on a list of NAICS codes, and export the information into a formatted Excel spreadsheet with multiple tabs. This script will go through the following processes:
+This is a python 3.X script designed to access Census Zip Code Business Patterns Data via the Census API, download the data for a selected list of zip codes, organize and group the data based on a [list of NAICS codes](https://coast.noaa.gov/data/digitalcoast/pdf/enow-crosswalk-table.pdf), and export the information into a formatted Excel spreadsheet with multiple tabs. This script will go through the following processes:
 
 * Constructing an API query
 * Cleaning an organizing the data
